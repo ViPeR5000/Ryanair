@@ -2,3 +2,4 @@ pytest
 pytest-cov==2.9.0
 pytest-homeassistant-custom-component
 httpx>=0.23.0 # not directly required, pinned by Snyk to avoid a vulnerability
+cryptography>=42.0.8 # not directly required, pinned by Snyk to avoid a vulnerability
